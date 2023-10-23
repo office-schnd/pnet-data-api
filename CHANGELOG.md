@@ -1,3 +1,8 @@
+pnet-data-api 1.25.0
+====================
+
+* Removed an incomptible slash at end of "about" URL.
+
 pnet-data-api 1.24.0
 ====================
 
